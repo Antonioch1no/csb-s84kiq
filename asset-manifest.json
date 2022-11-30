@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://antonioch1no.github.io/csb-s84kiq/static/css/main.22fbcaf7.chunk.css",
+    "main.js": "https://antonioch1no.github.io/csb-s84kiq/static/js/main.b945854a.chunk.js",
+    "main.js.map": "https://antonioch1no.github.io/csb-s84kiq/static/js/main.b945854a.chunk.js.map",
+    "runtime-main.js": "https://antonioch1no.github.io/csb-s84kiq/static/js/runtime-main.bf98958a.js",
+    "runtime-main.js.map": "https://antonioch1no.github.io/csb-s84kiq/static/js/runtime-main.bf98958a.js.map",
+    "static/css/2.222e94e2.chunk.css": "https://antonioch1no.github.io/csb-s84kiq/static/css/2.222e94e2.chunk.css",
+    "static/js/2.cfc21a0c.chunk.js": "https://antonioch1no.github.io/csb-s84kiq/static/js/2.cfc21a0c.chunk.js",
+    "static/js/2.cfc21a0c.chunk.js.map": "https://antonioch1no.github.io/csb-s84kiq/static/js/2.cfc21a0c.chunk.js.map",
+    "index.html": "https://antonioch1no.github.io/csb-s84kiq/index.html",
+    "static/css/2.222e94e2.chunk.css.map": "https://antonioch1no.github.io/csb-s84kiq/static/css/2.222e94e2.chunk.css.map",
+    "static/css/main.22fbcaf7.chunk.css.map": "https://antonioch1no.github.io/csb-s84kiq/static/css/main.22fbcaf7.chunk.css.map",
+    "static/js/2.cfc21a0c.chunk.js.LICENSE.txt": "https://antonioch1no.github.io/csb-s84kiq/static/js/2.cfc21a0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf98958a.js",
+    "static/css/2.222e94e2.chunk.css",
+    "static/js/2.cfc21a0c.chunk.js",
+    "static/css/main.22fbcaf7.chunk.css",
+    "static/js/main.b945854a.chunk.js"
+  ]
+}
